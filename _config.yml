@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://Technology_that_supports_large-scale_services'
-baseurl:          ''
+url:              'https://kimkihyun0206.github.io'
+baseurl:          '/Technology_that_supports_large-scale_services'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
