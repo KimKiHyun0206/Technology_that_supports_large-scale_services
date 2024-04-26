@@ -1,16 +1,16 @@
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+author:           김기현
+email:            rlarlgus0206@naver.com
 description: >
-  Build Jekyll site with the GitBook style.
+  대규모 서비스를 지탱하는 기술
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://kimkihyun0206.github.io'
+baseurl:          '/Technology_that_supports_large-scale_services'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
